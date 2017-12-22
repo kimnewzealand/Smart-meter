@@ -1,0 +1,9 @@
+name: "kimnewzealand"
+output_dir: "."
+navbar:
+  title: "Smart meter data"
+left:
+- text: "Smart Meter Exploratory Data Analysis"
+href: Smart Meter EDA.html
+
+
